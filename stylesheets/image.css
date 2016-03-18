@@ -1,3 +1,25 @@
+body{
+  background-image:url(../images/imagegallery/background.jpg);
+}
 .beauty, .vlog,.gaming{
-border
+border: 2px, solid, #000;
+width: 20%;
+}
+
+.beauty{
+  background-color:#4B0082;
+}
+
+.vlog{
+  background-color:#66CD00;
+}
+
+.gaming{
+  background-color:#008B8B;
+}
+
+img{
+  border: 5px, solid, #000;
+  float: left;
+  margin: auto;
 }
