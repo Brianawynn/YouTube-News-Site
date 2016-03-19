@@ -5,6 +5,7 @@
 }
 
 header{
+  margin: auto;
   width: 100%;
   
 }
@@ -31,6 +32,11 @@ img{
   position: relative;
   top:center;
   right:20%;
+}
+
+#imag2{
+  position: relative;
+  right:80%;
 }
 
 
