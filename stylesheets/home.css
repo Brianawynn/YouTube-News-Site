@@ -22,12 +22,10 @@ img{
   width: 40%;
   height: 20%;
   margin: 10px;
+  float: left;
 }
 
-#al{
-  float:left;
-  margin-left: 10px;
-}
+
 
 
 
