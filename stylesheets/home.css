@@ -1,3 +1,7 @@
+body{
+  width: 960px;
+}
+
 header{
   background-image: url(../images/header/all.jpg);
   width: 100%;
@@ -7,6 +11,7 @@ header{
 img{
   border: 5px, solid, #000;
   margin: 10px;
+  float: right;
 }
 
 .article{
@@ -16,6 +21,7 @@ img{
   width: 40%;
   height: 20%;
   margin: 10px;
+  float: left;
 }
 
 #nav{
