@@ -9,7 +9,9 @@ img{
 }
 
 .article{
-  border: 5px, solid, #000;
+  border: 5px;
+  border-style: solid;
+  border-color: #000;
 }
 
 #nav{
