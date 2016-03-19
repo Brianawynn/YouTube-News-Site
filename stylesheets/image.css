@@ -7,9 +7,7 @@
 
 #links{
   border: 2px solid #000;
-  float: right;
-  position: relative;
-  right: 5%;
+  display: inline;
   
 }
 
