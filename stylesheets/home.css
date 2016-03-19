@@ -12,9 +12,6 @@ header{
   left: 5%;
 }
 
-
-}
-
 .article{
   border: 5px;
   border-style: solid;
@@ -31,15 +28,14 @@ header{
   position: relative;
   top:center;
   right:20%;
-}
-
-#imag1{
   border: 5px dotted #008B8B;
 }
+
+
 #imag2{
   position: relative;
   left: 10%;
-  border: 5px solid red;
+
 }
 
 
