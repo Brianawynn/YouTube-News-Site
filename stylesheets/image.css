@@ -4,6 +4,7 @@ body{
 .beauty, .vlog,.gaming{
 border: 2px, solid, #000;
 width: 20%;
+height: 40px;
 }
 
 .beauty{
@@ -12,6 +13,7 @@ width: 20%;
 
 .vlog{
   background-color:#66CD00;
+  
 }
 
 .gaming{
