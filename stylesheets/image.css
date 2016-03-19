@@ -1,6 +1,10 @@
 body{
   background-image:url(../images/imagegallery/background.jpg);
 }
+.title{
+  width: 100%;
+  background-color: purple;
+}
 .beauty, .vlog,.gaming{
 border: 5px, solid, #000;
 width: 20%;
