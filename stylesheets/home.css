@@ -17,4 +17,6 @@ img{
 #nav{
   width: 100%;
   background-color: red;
+  text-align: center;
+  font-size:20px;
 }
