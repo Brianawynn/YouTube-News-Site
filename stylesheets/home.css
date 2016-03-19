@@ -24,12 +24,12 @@ img{
 }
 
 #a1{
-  float: left;
-  position:top 10%;
+  float: right;
+  
 }
 
 #a2{
-  float: right;
+  float: left;
 }
 
 
