@@ -4,6 +4,7 @@ body{
 .title{
   width: 100%;
   background-color: purple;
+  font-size: 32px;
 }
 .beauty, .vlog,.gaming{
 border: 5px, solid, #000;
