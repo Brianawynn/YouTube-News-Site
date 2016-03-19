@@ -22,13 +22,17 @@ header{
   float: left;
   padding: 15px;
 }
+#a1{
+  position:relative;
+  right:5%;
+}
 
 #a2{
   margin: 10px;
   float: right;
   position: relative;
   top:70%;
-  right:5%;
+  right:10%;
   border: 5px dotted #008B8B;
 }
 
