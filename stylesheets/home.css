@@ -1,1 +1,13 @@
+header{
+  background-image: url(../images/header/all.jpg);
+  width 100%
+  
+}
 
+img{
+  border 5px, solid, #000
+}
+
+.article{
+  border: 5px, solid, #000;
+}
