@@ -12,6 +12,7 @@ header{
 img{
   border: 5px, solid, #000;
   margin: 10px;
+  float:left;
 }
 
 .article{
@@ -28,8 +29,6 @@ img{
   
 }
 
-#a2{
-  float: left;
-}
+
 
 
