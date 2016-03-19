@@ -1,4 +1,37 @@
 
 #wrapper{
+  width:960px;
   background-image:url(../images/imagegallery/background.jpg);
 }
+
+#links{
+  border: 2px solid #000;
+  float: right;
+  position: relative;
+  right: 5%;
+  
+}
+
+.title{
+  width: 100%;
+  text-align: center;
+  font-size: 32px;
+  }
+  
+  .beauty,.vlog,.gaming{
+    width: 20%;
+    height: 20%;
+    font-size: 24px;
+    border: 5px solid #000;
+  }
+
+  .beauty{
+    background-color: purple;
+  }
+  
+  .vlog{
+    background-color:#66CD00;
+  }
+  .gaming{
+    background-color:#008B8B;
+  }
