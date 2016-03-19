@@ -8,7 +8,7 @@
 #links{
   border: 2px solid #000;
   display: inline;
-  
+  font-size:20px;
 }
 
 .title{
@@ -34,13 +34,6 @@
   }
   .gaming{
     background-color:#008B8B;
-  }
-  
-  #links{
-    border: 5px dotted #000;
-    float: right;
-    position: relative;
-    right: 5%;
   }
 
 a{
