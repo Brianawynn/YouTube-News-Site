@@ -28,7 +28,8 @@ img{
 #a2{
   margin: 10px;
   float: right;
-  
+  position: relative;
+  right:50%;
 }
 
 
