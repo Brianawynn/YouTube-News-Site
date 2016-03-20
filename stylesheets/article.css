@@ -1,1 +1,23 @@
+#wrapper{
+  width:960px;
+  background-color:white;
+}
 
+.headline{
+  width: 100%;
+  background-color: blue;
+}
+
+.byline{
+  width: 100%;
+  background-color:#70DBDB;
+  
+}
+
+#links{
+  width:100%;
+  background-color:;
+}
+a{
+  text-decoration:none;
+}
